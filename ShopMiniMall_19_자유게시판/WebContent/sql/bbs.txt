@@ -1,0 +1,8 @@
+  create table bbs
+  (  bbsID NUMBER PRIMARY KEY,
+     bbsTitle VARCHAR2(50),
+     userID varchar2(20),
+     bbsDate varchar2(30),
+     bbsContent VARCHAR2(2048),
+     bbsAvailable NUMBER(1)
+  );   

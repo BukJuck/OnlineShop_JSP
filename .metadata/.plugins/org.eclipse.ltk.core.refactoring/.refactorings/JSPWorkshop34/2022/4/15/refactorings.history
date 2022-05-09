@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.config&apos; to &apos;ShopMiniMall_03_회원가입/src&apos;&#x0D;&#x0A;- Original project: &apos;JSPWorkshop34&apos;&#x0D;&#x0A;- Destination element: &apos;ShopMiniMall_03_회원가입/src&apos;&#x0D;&#x0A;- Original element: &apos;JSPWorkshop34/src/com.config&apos;" description="Copy package" destination="=ShopMiniMall_03_회원가입/src" element1="/src&lt;com.config" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1649297367486" version="1.0"/>
+</session>

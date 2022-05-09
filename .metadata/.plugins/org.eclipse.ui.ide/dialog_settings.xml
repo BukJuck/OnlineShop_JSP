@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\qjawl\Downloads\JSPWorkshop20"/>
+			<item value="C:\Users\qjawl\Downloads\JSPWorkshop39"/>
+			<item value="C:\Users\qjawl\Desktop\수업내용 백업\05_Servlet\빽업\JSPWorkshop30"/>
+			<item value="C:\Users\qjawl\Desktop\수업내용 백업\05_Servlet\빽업"/>
+			<item value="C:\Users\qjawl\Downloads\JSPWorkshop48"/>
+			<item value="C:\Users\qjawl\Downloads\JSPWorkshop47"/>
+			<item value="C:\Users\qjawl\Desktop\수업내용 백업\06_JQuery\06_JQUERY\SOURCE_STU\JQueryproject"/>
+			<item value="C:\Users\qjawl\Desktop\수업내용 백업\04_HTML_CSS_JavaScript\WORKSPACE\JavaScript_chul"/>
+			<item value="C:\Users\qjawl\Downloads\05_Day5_Spring_tx_annotaion"/>
+			<item value="C:\Users\qjawl\Desktop\수업내용 백업\05_Servlet\빽업\11_JSTL_chul"/>
+			<item value="C:\Users\qjawl\Desktop\수업내용 백업\06_JQuery\06_JQUERY\WORKSHOP\JQueryWorkshop"/>
+			<item value="C:\Users\qjawl\Downloads\JSPWorkshop34"/>
+			<item value="C:\Users\qjawl\Downloads\JSPWorkshop22"/>
+			<item value="C:\Users\qjawl\Downloads\05_Servlet_Filter_chul"/>
+			<item value="C:\Users\qjawl\Downloads\웹서비스기바 빅데이터분석(2022_02)\JSPWorkshop09"/>
+			<item value="C:\Users\qjawl\Desktop\수업내용 백업\자바스크립트\WORKSPACE"/>
+			<item value="C:\Users\qjawl\Downloads\JavaSript_workshop"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\eclipse\JSP_Stu\WORKSPACE\ShopMiniMall_02_회원가입화면\WebContent\member\memberForm.jsp"/>
+		</list>
+	</section>
+</section>
